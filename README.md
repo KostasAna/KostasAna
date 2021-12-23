@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hello everyone👋
+### Data Scientist & Engineer @ Office for National Statistics
+### MSc Mathematics of Cybersecurity @ University of Bristol
+### Bsc Financial Mathematics @ Heriot-Watt University
 <!--
 **KostasAna/KostasAna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
