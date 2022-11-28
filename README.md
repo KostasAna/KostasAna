@@ -1,5 +1,5 @@
 ### Hello everyone👋
-#### Data Scientist & Engineer @ Office for National Statistics
+#### PhD candidate in Cybersecurity @ University of Bristol
 #### MSc Mathematics of Cybersecurity @ University of Bristol
 #### Bsc Financial Mathematics @ Heriot-Watt University
 
